@@ -1,0 +1,16 @@
+PODS:
+  - RxSwiftExtensions (0.1.0)
+
+DEPENDENCIES:
+  - RxSwiftExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  RxSwiftExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RxSwiftExtensions: c2a999cdd7a941337d27aed7b5327d046724184a
+
+PODFILE CHECKSUM: c07bda49d28a4d2c21745d25ef3c1594fa743bf4
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,22 @@
+{
+  "name": "RxSwiftExtensions",
+  "version": "0.1.0",
+  "summary": "A short description of RxSwiftExtensions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jay Zisch/RxSwiftExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jay Zisch": "jay.zisch@paypay-corp.co.jp"
+  },
+  "source": {
+    "git": "https://github.com/Jay Zisch/RxSwiftExtensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RxSwiftExtensions/Classes/**/*"
+}
